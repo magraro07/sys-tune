@@ -29,3 +29,4 @@ jobs:
       with:
         name: sys-tune
         path: dist
+        include-hidden-files: true
